@@ -24,11 +24,11 @@ npm init --save electron
 # UI Framework
 
 ```
-<a href="https://materializecss.com/"> Materialize Cass </a>
+[Materialize Css](https://materializecss.com/)
 ```
 
 
-<img src="mockup.png">
+<img src="mockup.PNG">
 
 # Acknowledgment
 Traversy Media
