@@ -23,9 +23,8 @@ npm init --save electron
 
 # UI Framework
 
-```
 [Materialize Css](https://materializecss.com/)
-```
+
 
 
 <img src="mockup.PNG">
